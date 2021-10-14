@@ -8,13 +8,13 @@ Sumário:
 
 * [INTRODUÇÃO AO GIT E GITHUB](#)
 
-    *[Introdução ao Git](#)
+    * [Introdução ao Git](#)
     
-    *[Workflow (Git)](#)
+    * [Workflow (Git)](#)
     
-    *[Introdução ao GitHub](#)
+    * [Introdução ao GitHub](#)
     
-    *[Interface web (GitHub)](#)
+    * [Interface web (GitHub)](#)
 
 * [DOWNLOAD E CONFIGURAÇÃO](#)
 
