@@ -7,9 +7,13 @@ Este workshop foi preparado para apresentação no grupo de estudos [GATE](https
 Sumário:
 
 * [INTRODUÇÃO AO GIT E GITHUB](#)
+
     *[Introdução ao Git](#)
+    
     *[Workflow (Git)](#)
+    
     *[Introdução ao GitHub](#)
+    
     *[Interface web (GitHub)](#)
 
 * [DOWNLOAD E CONFIGURAÇÃO](#)
