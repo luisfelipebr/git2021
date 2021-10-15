@@ -1,12 +1,10 @@
 # INTRODUÇÃO AO GIT
 
-<img align="right" src="figuras/logos/gate.jpg">
+<img src="figuras/logos/gate.jpg">
 
 Este workshop foi preparado para apresentação no grupo de estudos [GATE](https://gateufabc.wixsite.com/gate) em 15 de outubro de 2021. Ele aborda uma introdução ao Git e GitHub, sua integração com o RStudio e uma atividade prática introdutória.
 
 **SUMÁRIO**
-
-<img align="right" width="200" src="figuras/home.PNG">
 
 * [INTRODUÇÃO AO GIT E GITHUB](#)
 
@@ -25,6 +23,8 @@ Este workshop foi preparado para apresentação no grupo de estudos [GATE](https
 * [ATIVIDADE – Download de dados geoespaciais oficiais do Brasil no R com o pacote *geobr*](https://luisfelipebr.github.io/git2021/atividade/)
 
 ## INTRODUÇÃO AO GIT E GITHUB
+
+<img align="right" width="200" src="figuras/logos/git.png">
 
 ### Introdução ao Git
 
@@ -55,6 +55,8 @@ O Git possui diversos comandos que apoiam a manipulação dos repositórios e ar
 * git *push*: atualiza o repositório remoto com base nas alterações realizadas no repositório local.
 
 * git *pull*: atualiza o repositório local com base na última versão do repositório remoto.
+
+<img align="right" width="200" src="figuras/logos/github.png">
 
 ### Introdução ao GitHub
 
@@ -112,6 +114,8 @@ A figura abaixo apresenta alguns recursos da interface web:
 
 ## INTEGRAÇÃO COM O RSTUDIO
 
+<img align="right" width="200" src="figuras/logos/rstudio.svg">
+
 Após o download e configuração inicial do Git/GitHub, é possível acessar e gerenciar projetos pelo RStudio.
 
 Para copiar (git *clone*) um projeto, fazendo download de todos os arquivos hospedados em um repositório remoto, você deve:
@@ -128,7 +132,7 @@ Para copiar (git *clone*) um projeto, fazendo download de todos os arquivos hosp
 
 Projetos do tipo Git no RStudio possuem em sua interface opções adicionais, que permitem acessar alguns comandos sem a necessidade de utilizar linha de comando Git padrão ou outro software. 
 
-![](figuras/interface_rstudio.gif)
+![](figuras/interface_rstudio.png)
 
 ## ATIVIDADE – Download de dados geoespaciais oficiais do Brasil no R com o pacote *geobr*
 
