@@ -1,8 +1,8 @@
-# INTRODUÇÃO AO GIT
+# INTRODUÇÃO AO GIT/GITHUB
 
 <img src="figuras/logos/gate.jpg">
 
-Este workshop foi preparado para apresentação no grupo de estudos [GATE](https://gateufabc.wixsite.com/gate) em 15 de outubro de 2021. Ele aborda uma introdução ao Git e GitHub, sua integração com o RStudio e uma atividade prática introdutória.
+Esse workshop foi preparado para apresentação no grupo de pesquisa [GATE](https://gateufabc.wixsite.com/gate) em 15 de outubro de 2021. Ele aborda uma introdução ao Git e GitHub, sua integração com o RStudio e uma atividade prática introdutória.
 
 **SUMÁRIO**
 
@@ -56,9 +56,9 @@ O Git possui diversos comandos que apoiam a manipulação dos repositórios e ar
 
 * git *pull*: atualiza o repositório local com base na última versão do repositório remoto.
 
-<img align="right" width="200" src="figuras/logos/github.png">
-
 ### Introdução ao GitHub
+
+<img align="right" width="200" src="figuras/logos/github.png">
 
 O [GitHub](https://en.wikipedia.org/wiki/GitHub) é um **provedor de hospedagem na internet** para arquivos e códigos (repositório remoto) com sistema de controle de versão distribuída usando o Git. Ele é o maior provedor de hospedagem de código-fonte desde abril de 2020, sendo muito comumente *usado para hospedar projetos de código aberto*.
 
@@ -86,7 +86,7 @@ Projetos no GitHub podem ser acessados e gerenciados através da interface web, 
 
 A figura abaixo apresenta alguns recursos da interface web:
 
-![](figuras/interface_github.png)
+![](figuras/interface_web_github.png)
 
 * Code: página inicial, contém as principais funções
 
@@ -110,11 +110,9 @@ A figura abaixo apresenta alguns recursos da interface web:
 
 ### Download e configuração
 
-
+<img align="right" width="200" src="figuras/logos/rstudio.svg">
 
 ## INTEGRAÇÃO COM O RSTUDIO
-
-<img align="right" width="200" src="figuras/logos/rstudio.svg">
 
 Após o download e configuração inicial do Git/GitHub, é possível acessar e gerenciar projetos pelo RStudio.
 
@@ -134,6 +132,12 @@ Projetos do tipo Git no RStudio possuem em sua interface opções adicionais, qu
 
 ![](figuras/interface_rstudio.png)
 
+<img align="right" width="200" src="figuras/logos/geobr.png">
+
 ## ATIVIDADE – Download de dados geoespaciais oficiais do Brasil no R com o pacote *geobr*
+
+Se você já conseguiu fazer o [download e configuração do Git/GitHub](#) e a [integração desse projeto com o RStudio](#), está na hora de colocar os novos conhecimentos em prática. 
+
+A atividade proposta assume que você já tenha conhecimento básico de R/RStudio ou Python, que são os dois softwares suportados atualmente pelo [pacote *geobr*](https://ipeagit.github.io/geobr/). Se você nunca usou o R/RStudio, mas tem interesse em aprender, você pode consultar as [aulas de MTI](https://luisfelipebr.github.io/mti2020/).
 
 Para acessar a atividade clique [aqui](https://luisfelipebr.github.io/git2021/atividade/).

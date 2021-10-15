@@ -1,0 +1,1 @@
+Aqui você encontra a resolução das [atividades propostas](https://luisfelipebr.github.io/git2021/atividade/).
