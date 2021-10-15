@@ -1,6 +1,8 @@
 # Introdução ao Git
 
-<img align="right" src="figuras/git.png">
+![]("figuras/ufabc_gate.png")
+
+<img align="right" src="figuras/git_github_rstudio.png">
 
 Este workshop foi preparado para apresentação no grupo de estudos [GATE](https://gateufabc.wixsite.com/gate) em 15 de outubro de 2021. Ele aborda uma introdução ao Git e GitHub, sua integração com o RStudio e uma atividade prática introdutória.
 
@@ -16,7 +18,7 @@ Sumário:
     
     * [Interface web (GitHub)](#)
 
-* [DOWNLOAD E CONFIGURAÇÃO](#)
+    * [Download e Configuração](#)
 
 * [INTEGRAÇÃO COM O RSTUDIO](#)
 
@@ -40,13 +42,13 @@ Portanto, o Git permite: armazenar códigos; que várias pessoas trabalhem em um
 
 ### Workflow (Git)
 
-![](figuras/workflow_git.png)
-
 O Git possui diversos comandos que apoiam a manipulação dos repositórios e arquivos ali guardados. A figura acima apresenta um workflow básico, com alguns comandos essenciais:
+
+![](figuras/workflow_git.png)
 
 * git *clone*: copia um repositório remoto (armazenado em um servidor) para o seu computador.
 
-* git *add*: adiciona arquivos/alterações na "área de trabalho".
+* git *add*: adiciona um conjunto de arquivos/alterações da "área de trabalho" para o índice (*index/staging area*).
 
 * git *commit*: confirma os arquivos/alterações no repositório local.
 
@@ -56,15 +58,19 @@ O Git possui diversos comandos que apoiam a manipulação dos repositórios e ar
 
 ### Introdução ao GitHub
 
-O [GitHub](https://en.wikipedia.org/wiki/GitHub) é um **provedor de hospedagem na internet** para arquivos e códigos (repositório remoto), com sistema de controle de versão distribuída usando o Git. Ele é o maior provedor de hospedagem de código-fonte desde abril de 2020, sendo muito comumente *usado para hospedar projetos de código aberto*.
+O [GitHub](https://en.wikipedia.org/wiki/GitHub) é um **provedor de hospedagem na internet** para arquivos e códigos (repositório remoto) com sistema de controle de versão distribuída usando o Git. Ele é o maior provedor de hospedagem de código-fonte desde abril de 2020, sendo muito comumente *usado para hospedar projetos de código aberto*.
 
-Além das funcionalidades do Git, o website também oferece **controle de acesso** e outros recursos e serviços, dentre eles:
+Além das funcionalidades do Git, o website também oferece outros recursos e serviços, dentre eles:
+
+* **Controle de acesso**
+
+* **Colaboração** através de *issues*, *wikis*, *discussions* e outros.
 
 * **Documentação**, incluindo renderização automática de arquivos README em uma variedade de formatos de arquivo semelhantes ao Markdown. Ver [sintaxe básica de escrita e formatação no GitHub](https://docs.github.com/pt/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 * **Visualização de arquivos e dados**, como dados geoespaciais, PDF e outros.
 
-* **Colaboração** através de *wikis*, *issues*, *discussions* e outros recursos.
+* Recursos de **redes sociais**.
 
 * **GitHub Actions**, que permite o teste, lançamento e implementação de softwares em uma única plataforma.
 
@@ -100,7 +106,7 @@ A figura abaixo apresenta alguns recursos da interface web:
 
 * Settings:
 
-# DOWNLOAD E CONFIGURAÇÃO
+### DOWNLOAD E CONFIGURAÇÃO
 
 
 
@@ -110,7 +116,7 @@ Após o download e configuração inicial do Git/GitHub, é possível acessar e 
 
 Para copiar (git *clone*) um projeto, fazendo download de todos os arquivos hospedados em um repositório remoto, você deve:
 
-![](figuras/integracao.gif)
+![](figuras/integracao_rstudio.gif)
 
 1) Copiar o endereço único do projeto no GitHub.
 
