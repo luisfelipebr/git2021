@@ -2,7 +2,7 @@
 
 <img src="figuras/logos/gate.jpg">
 
-Esse workshop foi preparado para apresentação no grupo de pesquisa [GATE](https://gateufabc.wixsite.com/gate) em 15 de outubro de 2021. Ele aborda uma introdução ao Git e GitHub, sua integração com o RStudio e uma atividade prática introdutória.
+Esse workshop foi preparado para apresentação no grupo de pesquisa [GATE](https://gateufabc.wixsite.com/gate) em 15 de outubro de 2021 às 16h30. Ele aborda uma introdução ao Git e GitHub, sua integração com o RStudio e uma atividade prática introdutória.
 
 **SUMÁRIO**
 
