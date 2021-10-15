@@ -20,7 +20,7 @@ Se você conseguiu cumprir essa etapa com sucesso, você está pronto para reali
 
 Após cumprir as atividades, você pode submeter seu código/resultado para a pasta [resolução](https://github.com/luisfelipebr/git2021/tree/main/atividade/resolucao) desse repositório. Como fazer isso?
 
-Primeiro, você precisa copiar o repositório (*fork*). Agora você possui uma cópia do repositório no seu perfil do GitHub, que possui outro endereço único: `github.com/**seu_nome_de_usuario**/git2021`. Mas após fazer qualquer alteração nesse repositório, você pode solicitar uma alteração no repositório original, chamada de [*pull request*](https://github.com/luisfelipebr/git2021/pulls).
+Primeiro, você precisa copiar o repositório (*fork*). Agora você possui uma cópia do repositório no seu perfil do GitHub, que possui outro endereço único: `*seu_nome_de_usuario*/git2021`. Mas após fazer qualquer alteração nesse repositório, você pode solicitar uma alteração no repositório original, chamada de [*pull request*](https://github.com/luisfelipebr/git2021/pulls).
 
 A figura abaixo ilustra esse processo passo-a-passo:
 

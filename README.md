@@ -64,7 +64,7 @@ O [GitHub](https://en.wikipedia.org/wiki/GitHub) é um **provedor de hospedagem 
 
 Além das funcionalidades do Git, o website também oferece outros recursos e serviços, dentre eles:
 
-* **Controle de acesso**
+* **Controle de acesso**.
 
 * **Colaboração** através de *issues*, *wikis*, *discussions* e outros.
 
