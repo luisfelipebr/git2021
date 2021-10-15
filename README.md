@@ -2,7 +2,7 @@
 
 ![](figuras/ufabc_gate.PNG)
 
-<img align="right" src="figuras/git_github_rstudio.PNG" width="300">
+<img align="right" src="figuras/git_github_rstudio.PNG" width="200">
 
 Este workshop foi preparado para apresentação no grupo de estudos [GATE](https://gateufabc.wixsite.com/gate) em 15 de outubro de 2021. Ele aborda uma introdução ao Git e GitHub, sua integração com o RStudio e uma atividade prática introdutória.
 
