@@ -132,7 +132,7 @@ Projetos do tipo Git no RStudio possuem em sua interface opções adicionais, qu
 
 ![](figuras/interface_rstudio.png)
 
-<img align="right" width="200" src="figuras/logos/geobr.png">
+<img align="right" width="200" src="figuras/logos/geobr.PNG">
 
 ## ATIVIDADE – Download de dados geoespaciais oficiais do Brasil no R com o pacote *geobr*
 

@@ -1,6 +1,6 @@
 # ATIVIDADE – Download de dados geoespaciais oficiais do Brasil no R com o pacote *geobr*
 
-<img align="right" width="200" src="figuras/logos/geobr.png">
+<img align="right" width="200" src="figuras/logos/geobr.PNG">
 
 [***geobr***](https://ipeagit.github.io/geobr/) é um pacote computacional para **download de conjuntos de dados espaciais oficiais do Brasil**. O pacote inclui uma ampla gama de dados geoespaciais em formato [geopackage](https://en.wikipedia.org/wiki/GeoPackage) (que é parecido com o formato [shapefile](https://en.wikipedia.org/wiki/Shapefile), mas melhor), disponíveis em várias escalas geográficas e para vários anos com atributos, projeção e topologia harmonizados. Os dados espaciais originais foram criados por instituições governamentais oficiais e o pacote foi desenvolvido por uma equipe do Instituto de Pesquisa Econômica Aplicada (Ipea), Brasil. Qualquer pessoa pode [contribuir](https://github.com/ipeaGIT/geobr/blob/master/CONTRIBUTING.md) e todo o código-fonte está disponível abertamente no [GitHub](https://github.com/ipeaGIT/geobr).
 
