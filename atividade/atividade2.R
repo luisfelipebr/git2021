@@ -1,9 +1,9 @@
 
 # ATIVIDADE 2
 
-# Qual é a área urbanizada de São Bernardo do Campo, SP, em hectares?
+# Qual e a area urbanizada de Sao Bernardo do Campo, SP, em hectares?
 # R:
 
-# Faça um mapa da área urbanizada de São Bernardo do Campo, SP.
+# Faca um mapa da area urbanizada de Sao Bernardo do Campo, SP.
 
 # ----
