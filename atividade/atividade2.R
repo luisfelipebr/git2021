@@ -1,8 +1,9 @@
 
 # ATIVIDADE 2
 
-# Utilizando o pacote "geobr", calcule a área
-#
-#
+# Qual é a área urbanizada de São Bernardo do Campo, SP, em hectares?
+# R:
+
+# Faça um mapa da área urbanizada de São Bernardo do Campo, SP.
 
 # ----

@@ -1,38 +1,28 @@
 
 # ATIVIDADE 1
 
-# Utilizando o pacote "geobr", calcule a área
-#
-#
+# Quantas escolas existem no municipio de Sao Bernardo do Campo, SP? 
+# R: 
+
+# Qual a proporcao de escolas publicas e privadas?
+# R: 
 
 # ----
 
-
-
-
-# instala o pacote geobr
+# se voce ainda nao possui os pacotes instalados, rode o codigo abaixo
+install.packages("tidyverse")
+install.packages("sf")
 install.packages("geobr")
 
-# importa os pacotes
+# depois, e necessario importar os pacotes
+library(tidyverse)
 library(sf)
 library(geobr)
 
-# cria tabela descritiva com os dados disponiveis
-tabela <- list_geobr()
+# primeiro, vamos fazer o download de todas as escolas do Brasil, com a funcao "read_schools"
+escolas <- read_schools()
 
-# download dos municipios de sao paulo
-sp <- read_municipality(code_muni = "SP")
+# agora e necessario filtrar apenas as escolas de sao bernardo do campo (dica: use a funcao dplyr::filter
 
-# visualiza os municipios de sao paulo
-plot(st_geometry(sp))
+# voce pode calcular a proporcao criando uma tabela (table)
 
-# qual o codigo IBGE de sao bernardo do campo?
-ibge_sbc <- lookup_muni(name_muni = "São Bernardo do Campo", code_muni = NULL)
-ibge_sbc
-
-# importa dados espaciais de sao bernardo do campo
-sbc <- read_municipality(code_muni = ibge_sbc$code_muni)
-
-plot(st_geometry(sbc), add = TRUE, col = "red")
-
-grade_sbc <- read_urban_area(year = 2015)
