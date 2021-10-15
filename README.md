@@ -12,7 +12,7 @@ Esse workshop foi preparado para apresentação no grupo de pesquisa [GATE](http
     
     * [Workflow (Git)](#workflow-git)
     
-    * [Introdução ao GitHub](#workflow-git)
+    * [Introdução ao GitHub](#introdu%C3%A7%C3%A3o-ao-github)
     
     * [Interface web (GitHub)](#interface-web-github)
 
