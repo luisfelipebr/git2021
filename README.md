@@ -1,14 +1,12 @@
 # Introdução ao Git
 
-<p align="center" width="100%">
-<img src="figuras/ufabc_gate.PNG">
-</p>
+<img align="right" src="figuras/logos/gate.PNG">
 
 Este workshop foi preparado para apresentação no grupo de estudos [GATE](https://gateufabc.wixsite.com/gate) em 15 de outubro de 2021. Ele aborda uma introdução ao Git e GitHub, sua integração com o RStudio e uma atividade prática introdutória.
 
 Sumário:
 
-<img align="right" width="200" src="figuras/git_github_rstudio.PNG">
+<img align="right" width="200" src="figuras/home.PNG">
 
 * [INTRODUÇÃO AO GIT E GITHUB](#)
 
