@@ -8,7 +8,7 @@ Este workshop foi preparado para apresentação no grupo de estudos [GATE](https
 
 Sumário:
 
-<img align="right" width="250" src="figuras/git_github_rstudio.PNG">
+<img align="right" width="200" src="figuras/git_github_rstudio.PNG">
 
 * [INTRODUÇÃO AO GIT E GITHUB](#)
 
