@@ -90,7 +90,7 @@ A figura abaixo apresenta alguns recursos da interface web:
 
 * **Code**: página inicial, contém as principais funções de Git. Aqui você pode gerenciar arquivos e códigos, acessar e alterar a documentação, revisar *commits* etc.
 
-* **Issues**: clique [aqui]() para descobrir o que são *issues*.
+* **Issues**: clique [aqui](https://github.com/luisfelipebr/git2021/issues/1) para descobrir o que são *issues*.
 
 * **Pull requests**: trata-se de uma solicitação para incluir alterações/arquivos no projeto, que pode ter sido iniciada por uma *issue*, por exemplo. Depois de aberta, é possível discutir e revisar as possíveis alterações com colaboradores.
 
