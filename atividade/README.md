@@ -10,7 +10,7 @@ As atividades que serão apresentadas a seguir sugerem uso do pacote *geobr* no 
 
 Primeiro, é necessário fazer o [download e configuração do Git/GitHub](#) e a [integração desse projeto com o RStudio](#). Se você tiver algum problema nessa etapa, você pode pedir ajuda abrindo uma nova [*issue*](https://github.com/luisfelipebr/git2021/issues) nesse repositório.
 
-Se você conseguiu cumprir essa etapa com sucesso, você está pronto para realizar as atividades. Elas têm como objetivo incentivar a interação com o ambiente Git/GitHub ao mesmo tempo que explorar a potencialidade do pacote *geobr*. Se você tiver alguma dúvida, você pode acessar a página [discussions](https://github.com/luisfelipebr/git2021/discussions), para debater a atividade.
+Se você conseguiu cumprir essa etapa com sucesso, você está pronto para realizar as atividades. Elas têm como objetivo incentivar a interação com o ambiente Git/GitHub ao mesmo tempo que explorando a potencialidade do pacote *geobr*. Se você tiver alguma dúvida, você pode acessar a página [discussions](https://github.com/luisfelipebr/git2021/discussions), para debater a atividade.
 
 [**Atividade 1**](https://github.com/luisfelipebr/git2021/blob/main/atividade/atividade1.R) – Quantas escolas existem no município de São Bernardo do Campo, SP? Qual a proporção de escolas públicas e privadas?
 

@@ -88,27 +88,37 @@ A figura abaixo apresenta alguns recursos da interface web:
 
 ![](figuras/interface_web_github.png)
 
-* Code: página inicial, contém as principais funções
+* **Code**: página inicial, contém as principais funções de Git. Aqui você pode gerenciar arquivos e códigos, acessar e alterar a documentação, revisar *commits* etc.
 
-* Issues:
+* **Issues**: clique [aqui]() para descobrir o que são *issues*.
 
-* Pull requests:
+* **Pull requests**: trata-se de uma solicitação para incluir alterações/arquivos no projeto, que pode ter sido iniciada por uma *issue*, por exemplo. Depois de aberta, é possível discutir e revisar as possíveis alterações com colaboradores.
 
-* Discussions:
+* **Discussions**: é um fórum de comunicação colaborativo para a comunidade sobre um projeto de código aberto. Os integrantes da comunidade podem perguntar e responder a perguntas, compartilhar atualizações, ter conversas abertas e acompanhar decisões que afetam o modo de trabalho da comunidade.
 
-* *Actions*:
+* **Actions**: ajuda a automatizar tarefas dentro do ciclo de vida de desenvolvimento de software.
 
-* *Projects*:
+* **Projects**: é uma ferramenta personalizável e flexível para planejamento e acompanhamentos de trabalhos no GitHub.
 
-* *Wiki*:
+* **Wiki**: permite a hospedagem da documentação de um projeto de forma que outras pessoas possam usar e contribuir.
 
-* *Security*:
+* **Security**: permite controlar recursos que protegem e analisam o código em um projeto.
 
-* *Insights*:
+* **Insights**: fornece dados sobre o projeto e organização.
 
-* Settings:
+* **Settings**: configurações do projeto.
 
 ### Download e configuração
+
+Existem diversos tutoriais disponíveis na internet sobre como baixar e configurar o Git/GitHub. Segue algumas sugestões abaixo:
+
+[GitHub Docs](https://docs.github.com/pt/get-started/quickstart/set-up-git)
+
+[1 - Download](https://git-scm.com/downloads)
+
+[2 - Configuração do nome de usuário](https://docs.github.com/pt/get-started/getting-started-with-git/setting-your-username-in-git)
+
+[3 - Configuração do endereço de e-mail do *commit*](https://docs.github.com/pt/account-and-profile/setting-up-and-managing-your-github-user-account/managing-email-preferences/setting-your-commit-email-address)
 
 <img align="right" width="200" src="figuras/logos/rstudio.svg">
 
