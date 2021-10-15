@@ -1,4 +1,4 @@
-# (ATIVIDADE) DOWNLOAD DE DADOS GEOESPACIAIS OFICIAIS DO BRASIL NO R COM O PACOTE GEOBR
+# ATIVIDADE – Download de dados geoespaciais oficiais do Brasil no R com o pacote *geobr*
 
 
 

@@ -1,10 +1,10 @@
-# Introdução ao Git
+# INTRODUÇÃO AO GIT
 
 <img align="right" src="figuras/logos/gate.jpg">
 
 Este workshop foi preparado para apresentação no grupo de estudos [GATE](https://gateufabc.wixsite.com/gate) em 15 de outubro de 2021. Ele aborda uma introdução ao Git e GitHub, sua integração com o RStudio e uma atividade prática introdutória.
 
-Sumário:
+**SUMÁRIO**
 
 <img align="right" width="200" src="figuras/home.PNG">
 
@@ -18,13 +18,13 @@ Sumário:
     
     * [Interface web (GitHub)](#)
 
-    * [Download e Configuração](#)
+    * [Download e configuração](#)
 
 * [INTEGRAÇÃO COM O RSTUDIO](#)
 
-* [(ATIVIDADE) DOWNLOAD DE DADOS GEOESPACIAIS OFICIAIS DO BRASIL NO R COM O PACOTE GEOBR](https://luisfelipebr.github.io/git2021/atividade/)
+* [ATIVIDADE – Download de dados geoespaciais oficiais do Brasil no R com o pacote *geobr*](https://luisfelipebr.github.io/git2021/atividade/)
 
-# INTRODUÇÃO AO GIT E GITHUB
+## INTRODUÇÃO AO GIT E GITHUB
 
 ### Introdução ao Git
 
@@ -106,11 +106,11 @@ A figura abaixo apresenta alguns recursos da interface web:
 
 * Settings:
 
-### DOWNLOAD E CONFIGURAÇÃO
+### Download e configuração
 
 
 
-# INTEGRAÇÃO COM O RSTUDIO
+## INTEGRAÇÃO COM O RSTUDIO
 
 Após o download e configuração inicial do Git/GitHub, é possível acessar e gerenciar projetos pelo RStudio.
 
@@ -129,3 +129,7 @@ Para copiar (git *clone*) um projeto, fazendo download de todos os arquivos hosp
 Projetos do tipo Git no RStudio possuem em sua interface opções adicionais, que permitem acessar alguns comandos sem a necessidade de utilizar linha de comando Git padrão ou outro software. 
 
 ![](figuras/interface_rstudio.gif)
+
+## ATIVIDADE – Download de dados geoespaciais oficiais do Brasil no R com o pacote *geobr*
+
+Para acessar a atividade clique [aqui](https://luisfelipebr.github.io/git2021/atividade/).
