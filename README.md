@@ -140,7 +140,7 @@ Para copiar (git *clone*) um projeto, fazendo download de todos os arquivos hosp
 
 Projetos do tipo Git no RStudio possuem em sua interface opções adicionais, que permitem acessar alguns comandos sem a necessidade de utilizar linha de comando Git padrão ou outro software. 
 
-![](figuras/interface_rstudio.png)
+![](figuras/interface_rstudio.PNG)
 
 <img align="right" width="200" src="https://raw.githubusercontent.com/luisfelipebr/git2021/main/figuras/logos/geobr.PNG">
 
