@@ -6,21 +6,21 @@ Esse workshop foi preparado para apresentação no grupo de pesquisa [GATE](http
 
 **SUMÁRIO**
 
-* [INTRODUÇÃO AO GIT E GITHUB](#)
+* [INTRODUÇÃO AO GIT E GITHUB](#introdu%C3%A7%C3%A3o-ao-git-e-github)
 
-    * [Introdução ao Git](#)
+    * [Introdução ao Git](#introdu%C3%A7%C3%A3o-ao-git)
     
-    * [Workflow (Git)](#)
+    * [Workflow (Git)](#workflow-git)
     
-    * [Introdução ao GitHub](#)
+    * [Introdução ao GitHub](#workflow-git)
     
-    * [Interface web (GitHub)](#)
+    * [Interface web (GitHub)](#interface-web-github)
 
-    * [Download e configuração](#)
+    * [Download e configuração](#download-e-configura%C3%A7%C3%A3o)
 
-* [INTEGRAÇÃO COM O RSTUDIO](#)
+* [INTEGRAÇÃO COM O RSTUDIO](#integra%C3%A7%C3%A3o-com-o-rstudio)
 
-* [ATIVIDADE – Download de dados geoespaciais oficiais do Brasil no R com o pacote *geobr*](https://luisfelipebr.github.io/git2021/atividade/)
+* [ATIVIDADE – Download de dados geoespaciais oficiais do Brasil no R com o pacote *geobr*](https://github.com/luisfelipebr/git2021/tree/main/atividade#atividade--download-de-dados-geoespaciais-oficiais-do-brasil-no-r-com-o-pacote-geobr)
 
 ## INTRODUÇÃO AO GIT E GITHUB
 
@@ -146,8 +146,8 @@ Projetos do tipo Git no RStudio possuem em sua interface opções adicionais, qu
 
 ## ATIVIDADE – Download de dados geoespaciais oficiais do Brasil no R com o pacote *geobr*
 
-Se você já conseguiu fazer o [download e configuração do Git/GitHub](#) e a [integração desse projeto com o RStudio](#), está na hora de colocar os novos conhecimentos em prática. 
+Se você já conseguiu fazer o [download e configuração do Git/GitHub](https://github.com/luisfelipebr/git2021#download-e-configura%C3%A7%C3%A3o) e a [integração desse projeto com o RStudio](https://github.com/luisfelipebr/git2021#integra%C3%A7%C3%A3o-com-o-rstudio), está na hora de colocar os novos conhecimentos em prática. 
 
 A atividade proposta assume que você já tenha conhecimento básico de R/RStudio ou Python, que são os dois softwares suportados atualmente pelo [pacote *geobr*](https://ipeagit.github.io/geobr/). Se você nunca usou o R/RStudio, mas tem interesse em aprender, você pode consultar as [aulas de MTI](https://luisfelipebr.github.io/mti2020/).
 
-Para acessar a atividade clique [aqui](https://luisfelipebr.github.io/git2021/atividade/).
+Para acessar a atividade clique [aqui](https://github.com/luisfelipebr/git2021/tree/main/atividade#atividade--download-de-dados-geoespaciais-oficiais-do-brasil-no-r-com-o-pacote-geobr).
