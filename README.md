@@ -1,8 +1,8 @@
 # Introdução ao Git
 
-![]("figuras/ufabc_gate.png")
+![]("figuras/ufabc_gate.PNG")
 
-<img align="right" src="figuras/git_github_rstudio.png">
+<img align="right" src="figuras/git_github_rstudio.PNG">
 
 Este workshop foi preparado para apresentação no grupo de estudos [GATE](https://gateufabc.wixsite.com/gate) em 15 de outubro de 2021. Ele aborda uma introdução ao Git e GitHub, sua integração com o RStudio e uma atividade prática introdutória.
 
@@ -44,7 +44,7 @@ Portanto, o Git permite: armazenar códigos; que várias pessoas trabalhem em um
 
 O Git possui diversos comandos que apoiam a manipulação dos repositórios e arquivos ali guardados. A figura acima apresenta um workflow básico, com alguns comandos essenciais:
 
-![](figuras/workflow_git.png)
+![](figuras/workflow_git.PNG)
 
 * git *clone*: copia um repositório remoto (armazenado em um servidor) para o seu computador.
 
