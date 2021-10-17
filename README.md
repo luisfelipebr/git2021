@@ -2,7 +2,7 @@
 
 <img src="figuras/logos/gate.jpg">
 
-Esse workshop foi preparado para apresentação no grupo de pesquisa [GATE](https://gateufabc.wixsite.com/gate) em 15 de outubro de 2021. Ele aborda uma introdução ao Git e GitHub, sua integração com o RStudio e uma atividade prática introdutória.
+Esse workshop foi apresentado no grupo de pesquisa [GATE](https://gateufabc.wixsite.com/gate) em 15 de outubro de 2021. Ele aborda uma introdução ao Git e GitHub, sua integração com o RStudio e uma atividade prática introdutória. A gravação está disponível no [YouTube](https://www.youtube.com/watch?v=9z8jKm4VUnk).
 
 **SUMÁRIO**
 
@@ -21,6 +21,9 @@ Esse workshop foi preparado para apresentação no grupo de pesquisa [GATE](http
 * [INTEGRAÇÃO COM O RSTUDIO](#integra%C3%A7%C3%A3o-com-o-rstudio)
 
 * [ATIVIDADE – Download de dados geoespaciais oficiais do Brasil no R com o pacote *geobr*](https://github.com/luisfelipebr/git2021/tree/main/atividade#atividade--download-de-dados-geoespaciais-oficiais-do-brasil-no-r-com-o-pacote-geobr)
+
+[![](figuras/youtube.PNG)](https://www.youtube.com/watch?v=9z8jKm4VUnk)
+
 
 ## INTRODUÇÃO AO GIT E GITHUB
 
